@@ -19,6 +19,4 @@ re,
 random,
 
 ##Files in the repository:-
-Jupyter notebook including all the code for this project.
-
-abcnews-data-text.csv dataset
+Jupyter notebook including all the code for this project, abcnews-data-text.csv dataset
